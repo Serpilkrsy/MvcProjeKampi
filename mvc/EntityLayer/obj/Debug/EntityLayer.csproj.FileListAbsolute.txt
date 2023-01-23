@@ -1,0 +1,12 @@
+C:\Users\SERPİL\Source\Repos\mvc\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\SERPİL\Source\Repos\mvc\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\SERPİL\Source\Repos\mvc\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\SERPİL\Source\Repos\mvc\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\SERPİL\Source\Repos\mvc\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SERPİL\Source\Repos\mvc\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\SERPİL\Source\Repos\mvc\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SERPİL\Source\Repos\mvc\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\SERPİL\Source\Repos\mvc\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\SERPİL\Source\Repos\mvc\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\SERPİL\Source\Repos\mvc\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\SERPİL\Source\Repos\mvc\EntityLayer\obj\Debug\EntityLayer.pdb
